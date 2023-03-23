@@ -6,13 +6,13 @@ Estruturas de dados é algo que dá estrutura aos dados, que trás regras que di
 
 ### Operadores Aritméticos
 
-print(2 + 3) soma
-print(2 - 3) subtração
-print(2 * 3.3) Multiplicação
-print(2 / 3) Divisão
-print(2 // 3) Divisão inteira
-print(2 ** 3) Exponenciação
-print(2 % 3) Resto da divisão
+print(2 + 3) soma <br>
+print(2 - 3) subtração <br>
+print(2 * 3.3) Multiplicação <br>
+print(2 / 3) Divisão <br>
+print(2 // 3) Divisão inteira <br>
+print(2 ** 3) Exponenciação <br>
+print(2 % 3) Resto da divisão <br>
 
 
 
