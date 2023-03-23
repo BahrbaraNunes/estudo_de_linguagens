@@ -16,8 +16,8 @@ print(2 % 3) Resto da divisão <br>
 
 
 
-a = 12
-b = a
-#Isso quer dizer que a recebe 12, que b recebe a, logo a e b são 12.
+a = 12 <br>
+b = a  <br>
+#Isso quer dizer que a recebe 12, que b recebe a, logo a e b são 12. <br>
 print(a + b)
  
