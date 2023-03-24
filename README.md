@@ -24,11 +24,11 @@ print(a + b)
 
 ### Operadores de Comparação
 
-== Igual
-!= Diferente
-> Maior que
-< Menor que
->= Maior ou igual a
-< Menor ou igual a
+== Igual <br>
+!= Diferente <br>
+> Maior que <br>
+< Menor que <br>
+>= Maior ou igual a <br>
+< Menor ou igual a <br>
 
  
