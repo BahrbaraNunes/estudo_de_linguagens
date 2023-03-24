@@ -23,13 +23,14 @@ print(a + b)
 
 
 ### Operadores de Comparação
-
+<pre>
 == Igual <br>
 != Diferente <br>
- Maior que <br>
+> Maior que <br>
 < Menor que <br>
-Maior ou igual a <br>
+>= Maior ou igual a <br>
 < Menor ou igual a <br>
+</pre>
 
 ### Operadores de Atribuição
 
