@@ -18,6 +18,17 @@ print(2 % 3) Resto da divisão <br>
 
 a = 12 <br>
 b = a  <br>
-#Isso quer dizer que a recebe 12, que b recebe a, logo a e b são 12. <br>
+Isso quer dizer que a recebe 12, que b recebe a, logo a e b são 12. <br>
 print(a + b)
+
+
+### Operadores de Comparação
+
+== Igual
+!= Diferente
+> Maior que
+< Menor que
+>= Maior ou igual a
+< Menor ou igual a
+
  
