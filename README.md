@@ -26,9 +26,9 @@ print(a + b)
 
 == Igual <br>
 != Diferente <br>
-> Maior que <br>
+ Maior que <br>
 < Menor que <br>
->= Maior ou igual a <br>
+Maior ou igual a <br>
 < Menor ou igual a <br>
 
  
