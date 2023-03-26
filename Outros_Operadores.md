@@ -62,7 +62,7 @@ lista_c = [1, 2, 3]
 lista_a is lista_b # Verdadeiro
 lista_b is lista_c # Falso
 lista_a is not lista_c # Verdadeiro
-# A lista 'a' e 'b' estão ocupando o mesmo espaço de memoria, já a lista 'c' ele ocupa outro espaço.
+#A lista 'a' e 'b' estão ocupando o mesmo espaço de memoria, já a lista 'c' ele ocupa outro espaço.
 </pre></code>
 
 <h2>Estruturas Condicionais</h2>
@@ -108,11 +108,11 @@ print(a + float(b))
 <p>Sintaxe: nome_da_variável[e o número dentro].<br>
 <code><pre>
 Exemplos com lista:
-
-#          -8      -7       -6       -5        -4       -3       -2        -1
+<code><pre>
+          -8      -7       -6       -5        -4       -3       -2        -1
 lista = ['Ana', 'Pedro', 'Paula', 'Carlos', 'Diego', 'Diana', 'Sales', 'Hamon']
-#          1       2         3        4         5        6       7         8
-
+           1       2         3        4         5        6       7         8
+</code></pre>
 lista = [1:3]   - Imprime do 1 ao 2, pois o último valor não está incluso;
 lista = [1:-1]  - Imprime do 1 ao -1 sem inclui-ló;
 lista = [1:]    - Imprime do primeiro elemento até o último;
@@ -131,10 +131,6 @@ lista = [] - lista vazia.
 .len(lista) - essa função diz o tamanho de algo.
 .append( ) - adiciona elementos na lista.
 </p>
-
-
-
-
 
 
 
