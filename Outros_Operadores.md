@@ -29,7 +29,7 @@ not False
 not not True
 </pre></code>
 
-<h4>Outros Operadores</h4>
+### Outros Operadores
 
 <p>Exemplo de operadores ternários:</p>
 <code><pre>
@@ -88,11 +88,11 @@ lista_a is not lista_c # Verdadeiro
         print('Por Favor Dirigir Acima de 80km/h.')
     else:
         print('Velocidade OK!')
-    </pre></code>
+</pre></code>
 
 <h2>Casting</h2>
 <p>A função Cast serve para converter o valor de um ripo para outro tipo. Exemplo:</p><br>
-<code><pre>
+</code></pre>
 Exemplo 1:    
 a = 2 + int('3')
 print(a)
@@ -124,13 +124,12 @@ del lista = [2] - Deleta o elemento de indice 2.
 </pre></code></p>
 
 <h2>Lista</h2>
-<p>
+
 Listas são definidas com dois [colchetes] e elas são mutavéis e heterogêneas, assim conseguimos por vários tipos diferentes em uma lista, em Python.  
 
 lista = [] - lista vazia.
 .len(lista) - essa função diz o tamanho de algo.
 .append( ) - adiciona elementos na lista.
-</p>
 
 
 
@@ -140,14 +139,11 @@ lista = [] - lista vazia.
 
 
 
-
-<p>
+#### Outras funções:
 .len( ) - essa função diz o tamamho de uma string.
 \n - quebra linhas.
-</p>
+
 
 
 <!-- Estudar sobre Builtins
 Ele é um modulo disponivel para nós. Para acessar digite: __builtins__ -->
-</body>
-</html>
