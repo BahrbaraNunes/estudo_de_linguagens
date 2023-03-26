@@ -107,7 +107,7 @@ print(a + float(b))
 
 <h2>Acessando dados pelo index</h2>
 
-<p>Sintaxe: nome_da_variável[e o número dentro].<br>
+<p>Sintaxe: nome_da_variável[e o número dentro]<br>
 <code><pre>
 Exemplos com lista:
 <code><pre>
