@@ -35,6 +35,7 @@ print(a + b)
 ### Operadores de Atribuição
 
 Atribuição de operadores é um formato que você tem de colocar as suas operações de uma forma mais simples, mas que tem o  mesmo resultado.
+
 <code><pre>
 Exemplo: Se você tem uma variável 'x' e ela tem o valor de 10, e você quer adicionar o valor de 
 5 nessa variável...
