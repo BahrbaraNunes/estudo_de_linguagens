@@ -3,7 +3,7 @@
 ## Operadores Lógicos
 <code><pre>
 #Tabela verdade do AND:
-#Só será verdadeiro se ambos forem verddadeiros.
+#Só será verdadeiro se ambos forem verdadeiros.
 True and True
 True and False
 False and True
