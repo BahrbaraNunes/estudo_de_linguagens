@@ -51,7 +51,7 @@ x = 10
 x += 5 
 print(x)
 
-Assim você acrescenta 5, que será printado 15. Caso queira tirar 5:
+Assim você acrescenta 5, que será printado 15. Caso queira tirar o 5:
 
 x = 10 
 x -= 5 
