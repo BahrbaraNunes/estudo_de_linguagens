@@ -94,7 +94,7 @@ lista_a is not lista_c # Verdadeiro
 
 <h2>Casting</h2>
 <p>A função Cast serve para converter o valor de um ripo para outro tipo. Exemplo:</p><br>
-</code></pre>
+<code><pre>
 Exemplo 1:    
 a = 2 + int('3')
 print(a)
@@ -108,13 +108,13 @@ print(a + float(b))
 <h2>Acessando dados pelo index</h2>
 
 <p>Sintaxe: nome_da_variável[e o número dentro]<br>
-<code><pre>
+
 Exemplos com lista:
 <code><pre>
           -8      -7       -6       -5        -4       -3       -2        -1
 lista = ['Ana', 'Pedro', 'Paula', 'Carlos', 'Diego', 'Diana', 'Sales', 'Hamon']
            1       2         3        4         5        6       7         8
-</code></pre>
+
 lista = [1:3]   - Imprime do 1 ao 2, pois o último valor não está incluso;
 lista = [1:-1]  - Imprime do 1 ao -1 sem inclui-ló;
 lista = [1:]    - Imprime do primeiro elemento até o último;
