@@ -42,7 +42,7 @@ print('Hoje estou com as roupas ' + ('molhadas.' if esta_chovendo else 'secas.')
 
 <p>Exemplo de operador membro:</p>
 <code><pre>
-lista = [1, 2, 3, 'ana', 'Bruce']
+lista = [1, 2, 3, 'Ana', 'Bruce']
 2 in lista # 2 está na lista, verdadeiro.
 'Ana' not in lista # Ana não está na lista, será falso, pois ela está na lista.
 </pre></code>
