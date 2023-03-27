@@ -37,7 +37,7 @@ not not True
 <code><pre>
 esta_chovendo = True
 
-print('Hoje estou com as roupas' + ('molhadas.' if esta_chovendo else 'secas.'))
+print('Hoje estou com as roupas ' + ('molhadas.' if esta_chovendo else 'secas.'))
 </pre></code>
 
 <p>Exemplo de operador membro:</p>
