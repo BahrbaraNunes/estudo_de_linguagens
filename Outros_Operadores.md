@@ -1,4 +1,4 @@
-<a href="README.md" target="_self"  rel="prev">Voltar á Página Inicial.</a>
+<a href="README.md" target="_self"  rel="prev">Voltar á Página Inicial</a>
 
 ## Operadores Lógicos
 <code><pre>
@@ -169,5 +169,5 @@ texto.split(' ')
 <!-- Estudar sobre Builtins
 Ele é um modulo disponivel para nós. Para acessar digite: __builtins__ -->
 
-<a href="README.md" target="_self"  rel="prev">Voltar á Página Inicial.</a><br>
-<a href="pagina_03.md" target="_self"  rel="prev">Página Seguinte.</a>
+<a href="README.md" target="_self"  rel="prev">Voltar á Página Inicial</a><br>
+<a href="pagina_03.md" target="_self"  rel="prev">Página 03</a>
