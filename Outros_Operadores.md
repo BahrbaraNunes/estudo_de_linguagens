@@ -105,9 +105,20 @@ b = '3'
 print(a + float(b))
 </pre></code>
 
-<h2>Acessando dados pelo index</h2>
+## Slicing
 
-<p>Sintaxe: nome_da_variável[e o número dentro]<br>
+Você pode retornar um intervalo de caracteres usando a sintaxe de slice.
+Especifique o índice inicial e o índice final, separados por dois pontos, para retornar uma parte da string.
+Exemplo:
+
+</pre></code><p>
+b = "Hello, World!" <br>
+print(b[2:5]) <br>
+#Irá retornar 'llo'. <br>
+</p></pre></code>
+
+## Acessando dados pelo index
+Sintaxe: nome_da_variável[e o número dentro]<br>
 
 Exemplos com lista:
 <code><pre>
@@ -123,20 +134,26 @@ lista = [:]     - Imprime toda a lista;
 lista = [::2]   - Imprime a lista, mas saltando de dois em dois;
 lista = [::-1]  - Imprime a lista invertida;
 del lista = [2] - Deleta o elemento de indice 2.
-</pre></code></p>
+</pre></code>
 
 <h2>Lista</h2>
 
 Listas são definidas com dois [colchetes] e elas são mutavéis e heterogêneas, assim conseguimos por vários tipos diferentes em uma lista, em Python.  
 
-lista = [] - lista vazia.
-.len(lista) - essa função diz o tamanho de algo.
-.append( ) - adiciona elementos na lista.
+lista = [] - Lista vazia. <br>
+list() - Essa função cria uma lista. <br>
+.len(lista) - Essa função retorna a quantidade de elementos contidos em uma lista. <br>
+.count() - Retorna a quantidade de vezes que um mesmo elemento está  contido em uma lista. <br>
+.append() - Adiciona elementos na lista. <br>
+.remove('') - Remove um elemento da lista pelo seu nome. <br>
+.pop() - Remove um elemento da lista pela índice. <br>
+.index() - Retorna o índice do elemento. <br>
+
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 #### Outras funções:
-.len( ) - essa função diz o tamamho de uma string.
+
 \n - quebra linhas.
 
 
