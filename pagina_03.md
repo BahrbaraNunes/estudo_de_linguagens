@@ -1,4 +1,4 @@
-<a href="Outros_Operadores.md" target="_self"  rel="prev">Voltar á Página 02</a>
+<a href="Outros_Operadores.md" target="_self"  rel="prev">Voltar á Página anterior</a>
 
 # Tupla
 
@@ -15,6 +15,6 @@ Tuplas podem ser consideradas similares às listas, mas suas diferenças são cr
 <a href="https://www.hashtagtreinamentos.com/estruturas-condicionais-no-python?gclid=EAIaIQobChMI8aiIzL3z_QIVGneRCh1Lvgn7EAAYASAAEgKGqPD_BwE" target="_blank">Link em Relação á Dicionários.</a>
 
 
-<a href="Outros_Operadores.md" target="_self"  rel="prev">Voltar á Página 02</a><br>
-<a href="#" target="_self"  rel="prev">Página 04</a>
+<a href="Outros_Operadores.md" target="_self"  rel="prev">Voltar á Página anterior</a><br>
+<a href="#" target="_self"  rel="prev">Página seguinte</a>
 
