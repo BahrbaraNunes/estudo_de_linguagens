@@ -65,7 +65,7 @@ print(x)
 </code></pre>
 E assim em diante...
 
-<a href="Outros_Operadores.md" target="_self"  rel="prev">Outros Operadores.</a>
+<a href="Outros_Operadores.md" target="_self"  rel="prev">Página 02.</a>
 
 
  

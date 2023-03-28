@@ -111,11 +111,11 @@ Você pode retornar um intervalo de caracteres usando a sintaxe de slice.
 Especifique o índice inicial e o índice final, separados por dois pontos, para retornar uma parte da string.
 Exemplo:
 
-</pre></code><p>
+<p><pre><code>
 b = "Hello, World!" <br>
 print(b[2:5]) <br>
 #Irá retornar 'llo'. <br>
-</p></pre></code>
+</pre></code></p>
 
 ## Acessando dados pelo index
 Sintaxe: nome_da_variável[e o número dentro]<br>
@@ -153,7 +153,15 @@ list() - Essa função cria uma lista. <br>
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 #### Outras funções:
+.split() - Faz uma divisão, então é necessário infomar um parâmetro.<br>
+Exemplo:<br>
+<p><code><pre>
+texto = 'Python é uma excelente linguagem de programação.'
 
+texto.split(' ')
+#Isso quer dizer: quebre meu conjunto de caracteres e quebre em outros caracteres contendo o epaço como divisor. 
+#Saída: ['Python', 'é', 'uma', 'excelente', 'linguagem', 'de', 'programação.']
+</pre></code></p>
 \n - quebra linhas.
 
 
@@ -162,4 +170,4 @@ list() - Essa função cria uma lista. <br>
 Ele é um modulo disponivel para nós. Para acessar digite: __builtins__ -->
 
 <a href="README.md" target="_self"  rel="prev">Voltar á Página Inicial.</a><br>
-<a href="#" target="_self"  rel="prev">Página Seguinte.</a>
+<a href="pagina_03" target="_self"  rel="prev">Página Seguinte.</a>
