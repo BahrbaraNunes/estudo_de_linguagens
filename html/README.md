@@ -9,7 +9,7 @@
 - head: Colocamos todas as configurações de um site, como a importação de CSS e o título da página (meta tag);
 - body: onde todos os elementos visíveis estão.
 
-<code><pre>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +19,7 @@
 </head>
 <body></body>
 </html>
-</code></pre>
+
 
 <title>: É a tag que define o título da página;
 br: Quebra de linha;
