@@ -9,3 +9,4 @@ Aqui vocês acompanham todo o meu desenvolvimento desde o início, descidi fazer
 ## 🖥️ Tecnologias:
 
 - Python
+- HTML/CSS
