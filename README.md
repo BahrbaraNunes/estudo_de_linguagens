@@ -10,3 +10,5 @@ Aqui vocês irão acompanhar todo o meu desenvolvimento desde o início, descidi
 
 - Python
 - HTML, CSS
+
+
