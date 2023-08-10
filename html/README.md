@@ -18,13 +18,14 @@
 Atributos podem ser utilizados para adicionar funcionalidades as tags.
 
 - a: É responsavel por nos direcionar a uma nova página ou site, colocamos o endereço/URL no atributo chamado href.<br>
-Para abrir o link em uma outra aba usamos target = "_blank".
-- alt: Nesse atributo é inserido um texto que descreve a imagem. Este recurso é importante para a acessibilidade, fazendo com que nosso site seja mehor rankeado pelo Google também.
+Para abrir o link em uma outra aba usamos target = "_blank";
+- alt: Nesse atributo é inserido um texto que descreve a imagem. Este recurso é importante para a acessibilidade, fazendo com que nosso site seja melhor rankeado pelo Google também.
 
 
 ## Imagens
 
-- Usa a tag img, normalmente colocamos as imagens em uma pasta chamda "img" ou "assets", para fins de organização. 
+- Usa a tag img;
+- Normalmente colocamos as imagens em uma pasta chamada "img" ou "assets", para fins de organização;
 - Ela é uma self closing tag, ou seja não tem tag de fechamento. É bom inserir o atributo alt sempre que for por alguma imagem.   
 
 # Listas
@@ -36,7 +37,7 @@ Para abrir o link em uma outra aba usamos target = "_blank".
 
 ## LIstas Ordenadas
 
-- Us-se a tag ol;
+- Usa-se a tag ol;
 - Os itens continuam sendo com a tag il.
 
 # Tabelas
