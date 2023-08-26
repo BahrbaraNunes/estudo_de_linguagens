@@ -26,6 +26,7 @@ Atributos podem ser utilizados para adicionar funcionalidades as tags.
 - Usa a tag img;
 - Normalmente colocamos as imagens em uma pasta chamada "img" ou "assets", para fins de organização;
 - Ela é uma self closing tag, ou seja não tem tag de fechamento. É bom inserir o atributo alt sempre que for por alguma imagem.   
+<img src="img/img.png" alt="Imagem de exeplo.">
 
 # Listas
 
@@ -44,12 +45,13 @@ Atributos podem ser utilizados para adicionar funcionalidades as tags.
 # Tabelas
 
 - Nós usamos tabelas para exibir dados que podem ser categorizados em colunas;
-- tabelas são estruturas complexas no HTML e não são utilizdas;
+- tabelas são estruturas complexas no HTML e não são utilizadas;
 - Precisamos da tag table para criar a tabela;
 - E também um cabeçalho e um corpo;
-- th: Cada linha é criada em uma tag tr; 
+- tr: Cada linha é criada em uma tag tr; 
 - th: O cabeçalho (colunas);
-- td: Ficam os dados;
+- td: Ficam os dados; <br>
+<img src="img/tabela.png" alt="Código de uma tabela.">
 
 # Tag Div
 
@@ -67,6 +69,13 @@ hr: Para linha horizontal; <br>
 
 # CSS
 
+## Anatomia do CSS
+
+- Primeiramente devemos selecionar o elemento, isso pode ser feito através da tag do elemento;
+- Depois precisamos colocar as propriedades e os valores;
+- Caso queira mudar algo basta ulitlzar: color: red;;
+- Nome da propriedade, dois pontos, valor, ponto e vírgula.
+
 ## Maneiras de adicionar o CSS ao HTML
 
 - Inline: quando os estilos são adicionados por um atributo;
@@ -74,18 +83,32 @@ hr: Para linha horizontal; <br>
 <code><pre>
 EXEMPLO:  h1 style="color:blue">Mudando o título com inline h1
 </pre></code>
+Podemos também por multiplas regras:
+<code><pre>
+h1 style="color: purple; font-size: 40px">Mudando Tamanho h1
+</pre></code>
 
 - Internal: quando o CSS é adicionado na tag head;
+É uma técnica melhor que o inline, os estilos são colocados na tag head e as regras precisam estar entre a tag style; <br>
+p{ <br>
+    color: red; <br>
+}
+
 - External: quano o CSS é adicionado atrvaés de um arquivo externo e depois importado no HTML.
+Para adicionar o CSS com esta técnica precisaremos criar um arquivo .css, geralmente ficam em uma pasta chamada css e ela é importada através da tag link. <br>
+<img src="img/link css.png">
 
-## Anatomia do CSS
+## Ordem do CSS
+- Se temos estilos misturados (inline, internal e external), qual será aplicado? Todos eles, mas com a seguinte ordem: inline>internal=external>padrão do navegador;
+- Esta regra funciona quando temos estilos em um mesmo elemento;
+- Interno e externo tem a mesma prioridade, a última regra ganha a 'corrida'.
 
-- Primeiramente devemos selecionar o elemento, isso pode ser feito através da tag do elemento;
-- Depois precisamos colocar as propriedades e os valores;
-- Caso queira mudar algo basta ulitlzar: color: red;
-- Nome da propriedade, dois pontos, valor, ponto r vírgula.
+### Aplicando Múltiplos CSS
 
+<img src="img/css.png">
 
+### Comentário em CSS:
+/* Aqui está um comentário.*/
 
 
 
