@@ -6,3 +6,9 @@ ol {
 li {
     color: darkblue;
 }
+
+.parag {
+    background-color: yellowgreen;
+    color: violet;
+    padding: 5px;
+}

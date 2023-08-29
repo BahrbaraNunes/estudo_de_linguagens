@@ -34,7 +34,7 @@ Atributos podem ser utilizados para adicionar funcionalidades as tags.
 
 - Podemos criar um menu a partir de uma lista;
 - Usa-se a tag ol;
-- Os itens continuam sendo com a tag il.
+- Os itens continuam sendo com a tag li.
 
 ## Listas não Ordenadas
 
@@ -109,6 +109,13 @@ Para adicionar o CSS com esta técnica precisaremos criar um arquivo .css, geral
 
 ### Comentário em CSS:
 /* Aqui está um comentário.*/
+
+## Classes e ids
+
+- Ids são utilizados para elementos únicos;  ,<br>
+Para id, usa-se: #nome_do_id{}
+- Classes servem para um ou mais elementos, geralmente utilizadas em conjuntos de elementos. <br>
+Para class, usa-se: .nome_da_classes{}
 
 
 
